@@ -1,11 +1,6 @@
-# NiceChord
+# Part1
 
-## 目录
-
-- [Part1](Part1.md)
-- [Part2](Part2.md)
-
-:musical_score: Nice Chord ♬♫♪♩
+:musical_score: Nice Chord  Part1 ♬♫♪♩
 
 ## 2.和弦代号
 
